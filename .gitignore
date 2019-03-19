@@ -1,0 +1,6 @@
+# Visual Studio user-related files
+*.suo
+.vs/
+IndexRebuilderTool/IndexRebuilderTool.csproj
+IndexRebuilderTool/bin/*
+IndexRebuilderTool/obj/*
