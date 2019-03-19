@@ -2,5 +2,5 @@
 *.suo
 .vs/
 /IndexRebuilderTool/IndexRebuilderTool.csproj
-/IndexRebuilderTool/bin
-/IndexRebuilderTool/obj
+/IndexRebuilderTool/bin/
+/IndexRebuilderTool/obj/
